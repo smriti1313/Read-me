@@ -19,10 +19,13 @@ You can refer to the following articles on **_basics of Git and Github and also 
 
 <h2 align=center> 📝 How to Contribute? </h2>  
 
-- Take a look at [Contributing Guide](https://github.com/smriti1313)
+- Take a look at [Contributing Guide](https://github.com/smriti1313/Read-me/blob/main/CONTRIBUTING.md)
 - Take a look at the Existing Issues or create your own Issues! [Issues can be any bug or feature you think you can work on.]
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon. [Creating a branch of your name or issue related name is highly preferable]
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
+<h4 align="center"> Note: </h4>
+- Read CONTRIBUTING.md for better understanding
+- First time in opensource??? Don't worry. I got you. You can read contributing.md or ping me in `issues` section. I will make sure that you understand every step.
