@@ -29,7 +29,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
 <h2 align=center>  How to create a file of the work done? </h2>
 
 - Create a ***folder*** whose *name* must be ***same as your file***.
-- *Upload* the ***file in that folder***.
+- *Upload* all the ***files [and other assets] in that folder***.
 - Create a ***README.md*** in that folder.
 - In the README, write few lines of ***description*** about the ***features*** your script shows and paste a ***screenshot*** for the same i.e you need to apply that script on your profile readme.md and then screenshot the thing.
 
