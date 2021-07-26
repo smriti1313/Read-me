@@ -17,7 +17,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-<h2 align=center> 📝 How to Contribute? </h2>  
+<h2 align=center> How to Contribute? </h2>  
 
 - Take a look at [Contributing Guide](https://github.com/smriti1313/Read-me/blob/main/CONTRIBUTING.md)
 - Take a look at the Existing Issues or create your own Issues! [Issues can be any bug or feature you think you can work on.]
@@ -26,14 +26,14 @@ You can refer to the following articles on **_basics of Git and Github and also 
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
-<h2 align=center> 📝 How to create a file of the work done? </h2>
+<h2 align=center>  How to create a file of the work done? </h2>
 
 - Create a ***folder*** whose *name* must be ***same as your file***.
 - *Upload* the ***file in that folder***.
 - Create a ***README.md*** in that folder.
 - In the README, write few lines of ***description*** about the ***features*** your script shows and paste a ***screenshot*** for the same i.e you need to apply that script on your profile readme.md and then screenshot the thing.
 
-<h4 align="center"> Note: </h4>
+<h2 align="center"> Note: </h2>
 
 - Read CONTRIBUTING.md for better understanding
 - **First time in opensource??? Don't worry. I got you. You can read contributing.md or ping me in `issues` section. I will make sure that you understand every step.**
